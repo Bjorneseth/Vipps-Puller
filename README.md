@@ -55,6 +55,18 @@ There is no need for a database. It seems from the Vipps API documentation that 
 
 There will be no need for a frontend
 
+# Installation guide
+
+## Running the app
+
+For the future
+
+- Get API keys from Vipps
+
+## My development workflow
+
+I like to code with devcontainers in VScode, therefor i have the .devcontainer folder in this repository. To get into developer mode in VScode, update .env in the .devcontainer folder to your needs, and run the devcontainer in VScode.
+
 # Notes
 
 ## Fetching data from Vipps
