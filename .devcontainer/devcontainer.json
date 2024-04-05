@@ -4,7 +4,7 @@
 	"name": "Visma puller",
 	"dockerComposeFile": "docker-compose.yml",
 	"service": "visma-puller",
-	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}"
+	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}/code"
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 	// Configure tool-specific properties.

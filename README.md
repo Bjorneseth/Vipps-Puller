@@ -24,9 +24,7 @@ Previously, the sender's name and any attached message were not accessible throu
 │ ├── date.txt     // The last successfully date we pulled from Vipps
 ├── go.mod
 ├── go.sum
-├── README.md
 ├── main.go
-└── .gitignore
 ```
 
 ## Environment variables
